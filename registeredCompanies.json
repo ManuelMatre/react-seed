@@ -1,0 +1,12 @@
+{
+	"molina": { 
+		"serialKey": "_molina",
+		"maxTerminals": 30,
+		"cryptoPass": "9824*jhg+"
+	},
+	"otro": {
+		"serialKey": "o369124&o",
+		"maxTerminals": 30,
+		"cryptoPass": "5681?din-"
+	}
+}
